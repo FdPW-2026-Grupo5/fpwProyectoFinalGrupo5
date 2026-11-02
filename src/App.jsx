@@ -1,14 +1,16 @@
-import { useState } from 'react'
-import './App.css'
 
-function App() {
-  const [count, setCount] = useState(0)
+import { Outlet } from "react-router-dom";
+import { Container } from "@mui/material";
 
+const App = () => {
+  
   return (
-      <h1>
-        Proyecto final react 
-      </h1>
-  )
-}
+    <Container >
+      <Outlet />      
+    </Container>
 
-export default App
+  )
+
+};
+
+export default App;
