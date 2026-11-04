@@ -1,0 +1,47 @@
+[
+	{
+		"ronda": 1,
+		"opciones": [
+			{ "animal" : "Perro", "imagen": "", "intruso" : false },
+			{ "animal" : "Gato", "imagen": "", "intruso" : false},
+			{ "animal" : "León", "imagen": "", "intruso" : true }
+		]
+	},
+
+	{
+		"ronda": 2,
+		"opciones": [
+			{ "animal" : "Vaca", "imagen": "", "intruso" : false },
+			{ "animal" : "Oveja", "imagen": "", "intruso" : false },
+			{ "animal" : "Cocodrilo", "imagen": "", "intruso" : true }
+		]
+	},
+
+	{
+		"ronda": 3,
+		"opciones": [
+			{ "animal" : "Gallina", "imagen": "", "intruso" : false },
+			{ "animal" : "Chancho", "imagen": "", "intruso" : false },
+			{ "animal" : "Elefante", "imagen": "", "intruso" : true }
+		]
+	},
+
+	{
+		"ronda": 4,
+		"opciones": [
+			{ "animal" : "Caballo", "imagen": "", "intruso" : false },
+			{ "animal" : "Vaca", "imagen": "", "intruso" : false },
+			{ "animal" : "Tiburon", "imagen": "", "intruso" : true }
+		]
+	},
+
+	{
+		"ronda": 5,
+		"opciones": [
+			{ "animal" : "Oveja", "imagen": "", "intruso" : false },
+			{ "animal" : "Perro", "imagen": "", "intruso" : false },
+			{ "animal" : "Ping", "imagen": "", "intruso" : true }
+		]
+	}
+		
+]
